@@ -24,16 +24,19 @@ Servo Motor (Controls door locking/unlocking)
 Buzzer & LED (Alert mechanism for incorrect passwords)
 
 🛠️ Installation & Setup  
-1️) Clone the Repository: git clone https://github.com/Bonthu-Namo-Sai-Reddy/Smart-Door-Lock-System.git
-cd Smart-IoT-Door-Lock-System
-2️) Upload Code to Arduino
-Open door_lock.ino in Arduino IDE.
-Connect Arduino Uno via USB.
-Select the correct board and port.
-Click Upload to flash the code.
-3️) Hardware Setup
+1️) Clone the Repository: git clone https://github.com/Bonthu-Namo-Sai-Reddy/Smart-Door-Lock-System
+cd Smart-IoT-Door-Lock-System 
+
+2️) Upload Code to Arduino  
+Open door_lock.ino in Arduino IDE.  
+Connect Arduino Uno via USB.  
+Select the correct board and port.  
+Click Upload to flash the code. 
+
+3️) Hardware Setup  
 Connect the keypad, LCD, servo motor, and buzzer as per the circuit diagram.
 Power up the system.
+
 4️) Enter Password & Test System
 Input the correct password to unlock the door.
 Enter the wrong password multiple times to trigger the alert system.
