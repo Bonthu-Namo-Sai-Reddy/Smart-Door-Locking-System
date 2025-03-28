@@ -7,7 +7,7 @@ An IoT-powered smart door locking system with a secure password-based authentica
 This system enhances security by providing password-protected door access. Users can input a predefined password using a keypad, and upon verification, the servo motor unlocks the door. If the wrong password is entered multiple times, an alert system (buzzer and LED) activates to indicate unauthorized access.
 
 
-🖼️ Project Images  
+🖼️ Circuit Diagram  
 ![image](https://github.com/user-attachments/assets/ebd07288-d250-4611-bae7-1def8dd1be92)
 
 
